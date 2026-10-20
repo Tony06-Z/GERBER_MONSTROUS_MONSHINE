@@ -1,0 +1,1 @@
+dirchet wandering hypotesis 

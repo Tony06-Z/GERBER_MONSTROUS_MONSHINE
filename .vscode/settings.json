@@ -1,0 +1,4 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:venv",
+    "cmake.sourceDirectory": "E:/gerber-monstrous-monshine/Riskfolio-Lib/lib/eigen-3.4.0"
+}
